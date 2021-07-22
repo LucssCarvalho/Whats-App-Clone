@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835922041621",
+    "firebase_url": "https://studentroom-c6750.firebaseio.com",
+    "project_id": "studentroom-c6750",
+    "storage_bucket": "studentroom-c6750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835922041621:android:c39d7f198c6b78d7",
+        "android_client_info": {
+          "package_name": "br.com.chatandroid.studentroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835922041621-33plt1i5gbda9259evn4ptqoefpau8h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.chatandroid.studentroom",
+            "certificate_hash": "6d4e18a2e83c67551c991aa31c9b21443b351e77"
+          }
+        },
+        {
+          "client_id": "835922041621-13fppdumtpl64aj9mth5kqq719m3bi1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpG4zdzAEyqyVl27PZi1vfPkBKtgwFzK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835922041621-13fppdumtpl64aj9mth5kqq719m3bi1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

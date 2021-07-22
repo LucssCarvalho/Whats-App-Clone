@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6A0888</color>
+    <color name="colorPrimaryDark">#2F0B3A</color>
+    <color name="colorPrimaryDarker">#2F0B3A</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccent">#BE81F7</color>
+    <color name="cinza">#cccc</color>
+    <color name="cinzaEscuro">#696969</color>
+    <color name="colorMsg">#dbb5ff</color>
+    <color name="hint">#2F0B3A</color>
+    <color name="hintPress">#6A0888</color>
+
+
+</resources>
