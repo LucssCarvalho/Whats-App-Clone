@@ -112,9 +112,7 @@ public class LoginActivity extends AppCompatActivity {
                     Toast.makeText(LoginActivity.this, "Dados incorretos!", Toast.LENGTH_LONG).show();
                 }
             }
-
         });
-
     }
 
     private void abrirTelaPrincipal() {
